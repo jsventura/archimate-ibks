@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite eliminar una categoría"
+    id="id-f91e31dd7a904312b9a47e2c6572d9f6"
+    documentation="Esta funcionalidad permite eliminar el registro de una categoria de pago de servicio por su respectivo identificador"/>

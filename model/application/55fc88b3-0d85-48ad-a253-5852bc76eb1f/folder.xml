@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On-premise"
+    id="55fc88b3-0d85-48ad-a253-5852bc76eb1f"
+    documentation="Aplicaciones que se encuentran en nube privada del Banco como APIs, Servicios, Datos, Core y Legados."/>

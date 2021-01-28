@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite eliminar un proveedor"
+    id="id-77dea00abde54c11880474ee943d4cc5"
+    documentation="Esta funcionalidad permite eliminar un proveedor por medio de su respectivo identificador registrado por el banco"/>

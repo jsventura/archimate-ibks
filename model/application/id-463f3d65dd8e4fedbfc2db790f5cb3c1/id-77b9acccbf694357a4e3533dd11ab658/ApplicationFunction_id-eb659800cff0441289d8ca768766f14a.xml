@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite obtener un listado de productos"
+    id="id-eb659800cff0441289d8ca768766f14a"
+    documentation="Esta funcionalidad permite obtener el listado de los productos pertenecientes a un proveedor contratado por el banco"/>

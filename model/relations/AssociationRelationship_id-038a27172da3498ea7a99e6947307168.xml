@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JDBC"
+    id="id-038a27172da3498ea7a99e6947307168">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_0e82d212-2a57-48d9-b643-31dcdf0fe0b7.xml#0e82d212-2a57-48d9-b643-31dcdf0fe0b7"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-e8cdbffafbcf4d0fa1dc492cbc2c9164.xml#id-e8cdbffafbcf4d0fa1dc492cbc2c9164"/>
+</archimate:AssociationRelationship>

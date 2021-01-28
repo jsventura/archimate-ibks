@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite eliminar un servicio-producto "
+    id="id-5fcbbec158784aada72b0dc928ad65a2"
+    documentation="Esta funcionalidad permite eliminar la asociación enttre un servicio y un producto por medio de su respectivo identificador registrado por el banco"/>

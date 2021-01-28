@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite eliminar una empresa"
+    id="id-3baabf5bebe3447dacef1466bfea8e7b"
+    documentation="Esta funcionalidad permite eliminar una empresa por medio de su respectivo identificador registrado por el banco"/>

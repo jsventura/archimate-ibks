@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite eliminar un tipo de servicio"
+    id="id-a1d7eb3cb912409a85ae706b1390f7c1"
+    documentation="Esta funcionalidad permite eliminar un tipo de servicio por medio de su respectivo identificador registrado por el banco"/>

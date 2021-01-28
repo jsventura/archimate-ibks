@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite actualizar un producto"
+    id="id-c1987fa753e7414aa0a4ab7a03262608"
+    documentation="Esta funcionalidad permite actualizar un producto por medio de su respectivo identificador proporcionado por el banco"/>

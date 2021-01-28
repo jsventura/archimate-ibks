@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite eliminar un producto"
+    id="id-830699f83e7c4839b4b0ed683d96aab2"
+    documentation="Esta funcionalidad permite eliminar un producto por medio de su respectivo identificador proporcionado por el banco"/>

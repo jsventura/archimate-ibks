@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Servicio se expone y se realiza desde el ..."
+    id="id-6ea2324f23b248b9b754aab0e96b2caa">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-61afe233185a4a3d9a375094c2e2bd94.xml#id-61afe233185a4a3d9a375094c2e2bd94"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-09e00c7cf7604f35ba2b8fbba6242c94.xml#id-09e00c7cf7604f35ba2b8fbba6242c94"/>
+</archimate:RealizationRelationship>

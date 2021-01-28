@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite obtener un listado de proveedores"
+    id="id-e9e5a6c068a84042bd825a0225eeaeb9"
+    documentation="Esta funcionalidad permite obtener un listado de los proveedores contratados por el banco"/>

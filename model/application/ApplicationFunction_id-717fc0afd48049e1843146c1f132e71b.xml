@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Esta funcionalidad permite obtener los dispositivos vinculados a un cliente"
+    id="id-717fc0afd48049e1843146c1f132e71b"
+    documentation="Esta funcionalidad permite obtener la información de los dispositivos de un cliente, esto se da a través del uso de una aplicación de banca digital, se retornarán en su mayoría datos exclusivamente del dispositivo y el código de cliente único del banco."/>

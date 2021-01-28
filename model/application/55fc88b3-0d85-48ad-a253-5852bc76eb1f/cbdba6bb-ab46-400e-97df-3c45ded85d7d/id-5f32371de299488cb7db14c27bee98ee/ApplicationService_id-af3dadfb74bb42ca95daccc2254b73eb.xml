@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-branch-management"
+    id="id-af3dadfb74bb42ca95daccc2254b73eb"
+    documentation="Gestiona la desafiliación de dispositivos">
+  <properties
+      key="Stereotype"
+      value="Microservicio"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite obtenerl el listado de tipos de servicios"
+    id="id-825dafe82f0847fa8b90dab20d0268eb"
+    documentation="Esta funcionalidad permite obtener un listado de los tipos de servicios pertenecientes a una empresa"/>

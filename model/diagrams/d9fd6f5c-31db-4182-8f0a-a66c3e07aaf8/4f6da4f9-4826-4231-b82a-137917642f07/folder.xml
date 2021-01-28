@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Conceptual Solution Architecture"
+    id="4f6da4f9-4826-4231-b82a-137917642f07"
+    documentation="Conceptual Solution Architecture is an architecture that captures a big-picture vision of the&#xD;&#xA;whole solution. This architecture identifies the major functional components needed to provide&#xD;&#xA;the core business/mission capabilities within the solution, describes the relationship to the various&#xD;&#xA;organizations interacting with the solution’s building blocks, the purpose of each building block&#xD;&#xA;component, and the interrelationships among the functional components."/>

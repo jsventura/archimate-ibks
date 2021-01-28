@@ -1,0 +1,95 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ibks-payment-manager"
+    id="9d888382-0de9-4ef0-b7b2-af91cb9cac5b"
+    documentation="Gestiona la configuración de Pago de Servicio">
+  <properties
+      key="Nombre del servicio"
+      value="jch-xdig-customer-onboarding"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Categoría"
+      value="Servicio de Experiencia"/>
+  <properties
+      key="Tipo de solución lógica"
+      value="Compuesto"/>
+  <properties
+      key="Disponibilidad"
+      value="24x7"/>
+  <properties
+      key="Proceso de negocio"/>
+  <properties
+      key="Estado"
+      value="Desarrollo"/>
+  <properties
+      key="Dueño del Servicio"/>
+  <properties
+      key="Interfaz"
+      value="API REST"/>
+  <properties
+      key="API Contract"
+      value="https://jch-xdig-customer-onboarding-v1-des.ocpappdes.financiero.bco/swagger-ui.html"/>
+  <properties
+      key="Función 1"
+      value="Permite reenviar la clave OTP por mensaje de texto para que el cliente pueda ser autenticado"/>
+  <properties
+      key="Función 2"
+      value="Permite el registro de la valoración que brinda un cliente al proceso de abrir una cuenta de ahorros digital"/>
+  <properties
+      key="Función 3"
+      value="Permite consultar la información del cliente que desea abrir una cuenta de ahorro digital"/>
+  <properties
+      key="Función 4"
+      value="Permite abrir una cuenta de ahorros digiral con la información proporcionada por el cliente"/>
+  <properties
+      key="Función 5"
+      value="Permite actualizar la información del cliente almacenada en la cache"/>
+  <properties
+      key="Función 6"
+      value="Permite registrar la información de un cliente que desea abrir una cuenta de ahorros digital"/>
+  <properties
+      key="Función 7"
+      value="Permite validar la clave OTP enviada por mensaje de texto a la persona"/>
+  <properties
+      key="URL Función 1"
+      value="[POST] https://jch-xdig-customer-onboarding-v1-des.ocpappdes.financiero.bco/channel/xdig/v1.0/customer-onboarding/feedbacks"/>
+  <properties
+      key="URL Función 2"
+      value="[POST] https://jch-xdig-customer-onboarding-v1-des.ocpappdes.financiero.bco/channel/xdig/v1.0/customer-onboarding/dynamic-keys/resend"/>
+  <properties
+      key="URL Función 3"
+      value="[GET] https://jch-xdig-customer-onboarding-v1-des.ocpappdes.financiero.bco/channel/xdig/v1.0/customer-onboarding/onboardings?trackingId={trackingId}"/>
+  <properties
+      key="URL Función 4"
+      value="[POST] https://jch-xdig-customer-onboarding-v1-des.ocpappdes.financiero.bco/channel/xdig/v1.0/customer-onboarding/onboardings"/>
+  <properties
+      key="URL Función 5"
+      value="[POST] https://jch-xdig-customer-onboarding-v1-des.ocpappdes.financiero.bco/channel/xdig/v1.0/customer-onboarding/onboardings/refresh"/>
+  <properties
+      key="URL Función 6"
+      value="[POST] https://jch-xdig-customer-onboarding-v1-des.ocpappdes.financiero.bco/channel/xdig/v1.0/customer-onboarding/onboardings/register"/>
+  <properties
+      key="URL Función 7"
+      value="[POST] https://jch-xdig-customer-onboarding-v1-des.ocpappdes.financiero.bco/channel/xdig/v1.0/customer-onboarding/onboardings/validate"/>
+  <properties
+      key="Seguridad"/>
+  <properties
+      key="Tecnología"
+      value="Java + Spring"/>
+  <properties
+      key="Tipo de integración"
+      value="Sincrono"/>
+  <properties
+      key="Ubicación"
+      value="On-premise"/>
+  <properties
+      key="Plataforma/Instancia"
+      value="OpenShift Cluster K8S"/>
+  <properties
+      key="Versión de implementación"
+      value="1.0.0"/>
+  <properties
+      key="Stereotype"
+      value="Microservicio"/>
+</archimate:ApplicationService>

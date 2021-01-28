@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite crear una categoría"
+    id="id-08e0e42e9d0140af9f9ea01f122db275"
+    documentation="Esta funcionalidad permite registrar una nueva categoría de pago de servicio asociada a un canal"/>

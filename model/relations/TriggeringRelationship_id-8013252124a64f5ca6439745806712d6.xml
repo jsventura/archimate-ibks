@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configura parámetros del App usando ..."
+    id="id-8013252124a64f5ca6439745806712d6">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-1c789dc9cf4a4deb9e67a9bd12ab3b78.xml#id-1c789dc9cf4a4deb9e67a9bd12ab3b78"/>
+  <target
+      xsi:type="archimate:BusinessInterface"
+      href="BusinessInterface_id-09e00c7cf7604f35ba2b8fbba6242c94.xml#id-09e00c7cf7604f35ba2b8fbba6242c94"/>
+</archimate:TriggeringRelationship>

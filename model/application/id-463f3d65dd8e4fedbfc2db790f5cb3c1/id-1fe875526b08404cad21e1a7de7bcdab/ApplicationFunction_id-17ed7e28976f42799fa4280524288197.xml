@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite crear un producto"
+    id="id-17ed7e28976f42799fa4280524288197"
+    documentation="Esta funcionalidad permite crear un nuevo producto que pertenecerá a un proveedor contratado por el banco"/>

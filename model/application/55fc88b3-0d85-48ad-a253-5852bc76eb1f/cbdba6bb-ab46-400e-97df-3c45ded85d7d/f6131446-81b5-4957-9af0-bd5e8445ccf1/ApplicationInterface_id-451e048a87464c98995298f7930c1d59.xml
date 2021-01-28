@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="mobile-app-manager"
+    id="id-451e048a87464c98995298f7930c1d59"
+    documentation="Gestiona la configuración de parámetros del APP">
+  <properties
+      key="Stereotype"
+      value="API"/>
+</archimate:ApplicationInterface>

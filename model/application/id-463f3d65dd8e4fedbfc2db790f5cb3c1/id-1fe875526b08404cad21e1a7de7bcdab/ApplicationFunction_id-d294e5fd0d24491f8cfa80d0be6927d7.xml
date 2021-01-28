@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Esta funcionalidad permite desvincular el dispositivo del cliente"
+    id="id-d294e5fd0d24491f8cfa80d0be6927d7"
+    documentation="Esta funcionalidad permite desvincular el dispositivo del cliente; al proveer como query string el 'personId' (codigo IBS del cliente) y el 'deviceId' que se creo al vincular el dispositivo."/>

@@ -1,0 +1,60 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="service-specification"
+    id="3c0037dc-f325-4d78-910c-e0ac37769887"
+    documentation="Gestiona el mantenimiento de la configuración de pago de servicio">
+  <properties
+      key="Nombre del servicio"
+      value="jarvis-cross-protection-user-access"/>
+  <properties
+      key="Descripción"
+      value="Maneja los mecanismos y/o herramientas para la protección del acceso de los usuarios a través de los distintos canales de proyectos que maneja el banco"/>
+  <properties
+      key="Categoría"
+      value="Servicio de Soporte"/>
+  <properties
+      key="Tipo de solución lógica"
+      value="Atómico"/>
+  <properties
+      key="Disponibilidad"
+      value="24x7"/>
+  <properties
+      key="Proceso de negocio"/>
+  <properties
+      key="Estado"
+      value="Calidad"/>
+  <properties
+      key="Dueño del Servicio"/>
+  <properties
+      key="Interfaz"
+      value="API REST"/>
+  <properties
+      key="API Contract"
+      value="https://jsc-cross-protection-user-access-v1-des.ocpappdes.financiero.bco/swagger-ui.html"/>
+  <properties
+      key="Función 1"
+      value="Permite la validación de un usuario en el API ReCaptcha de Google"/>
+  <properties
+      key="URL Función 1"
+      value="https://jsc-cross-protection-user-access-v1-des.ocpappdes.financiero.bco/support-channel/jrvs/v1.0/protection-user-access/recaptcha/validate"/>
+  <properties
+      key="Seguridad"/>
+  <properties
+      key="Tecnología"
+      value="Java + Spring"/>
+  <properties
+      key="Tipo de integración"
+      value="Sincrono"/>
+  <properties
+      key="Ubicación"
+      value="On-premise"/>
+  <properties
+      key="Plataforma/Instancia"
+      value="OpenShift Cluster K8S"/>
+  <properties
+      key="Versión de implementación"
+      value="1.0.0"/>
+  <properties
+      key="Stereotype"
+      value="Microservicio"/>
+</archimate:ApplicationService>

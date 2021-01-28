@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta los parámetros del App Móvil"
+    id="id-ab016e9b83b94cd1a644e9df0356b7b9"
+    documentation="Esta funcionalidad permite obtener una lista de parámetros del App Móvil."/>

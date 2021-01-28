@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite obtener el listado de empresas"
+    id="id-41f12c36102b462da5d7e98fed660a68"
+    documentation="Esta funcionalidad permite obtener una lista de empresas que recibirán el pago de servicios realizados por medio del proveedor"/>

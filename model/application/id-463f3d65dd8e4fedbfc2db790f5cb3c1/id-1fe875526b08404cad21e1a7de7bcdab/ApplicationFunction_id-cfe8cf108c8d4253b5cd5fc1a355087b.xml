@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite actualizar una empresa"
+    id="id-cfe8cf108c8d4253b5cd5fc1a355087b"
+    documentation="Esta funcionalidad permite actualizar una empresa por medio de su respectivo identificador registrado por el banco"/>

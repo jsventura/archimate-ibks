@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite actualizar un proveedor"
+    id="id-ca96ed4f3afa4bc0aebc6301f3608d14"
+    documentation="Esta funcionalidad permite actualizar un proveedor por medio de su respectivo identificador registrado por el banco"/>

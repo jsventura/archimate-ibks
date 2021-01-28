@@ -1,0 +1,35 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conceptual Solution Architecture"
+    id="c3a8dbe7-02df-487e-b148-8dea83104738"
+    documentation="Conceptual Solution Architecture : Establishes the solution vision and contex.&#xD;&#xA;&#xD;&#xA;* Business Process Graphic : Shows the abstract business context for the solution and how the solution supports the business context.&#xD;&#xA;&#xD;&#xA;* Layer Graphic : Shows the delineation of business functionality and technology elements.&#xD;&#xA;&#xD;&#xA;* User Interaction Graphic : Shows the users and their interactions with the solution.&#xD;&#xA;&#xD;&#xA;* Solution Concept Graphic : Shows organizations, stakeholders, users, systems, and technologies, within the solution and their respective interactions.">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="4f79ca68-3e7b-43f2-8bd3-a338b53b7f88">
+    <bounds
+        x="444"
+        y="90"
+        width="291"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_3fe69c02-1ea6-4a9b-9ceb-021ac76203c1.xml#3fe69c02-1ea6-4a9b-9ceb-021ac76203c1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="62ad1aa3-fa4b-4a20-9d79-9319ea2031b1"
+      font="1|Segoe UI|10.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#004080"
+      textPosition="1">
+    <bounds
+        x="48"
+        y="24"
+        width="687"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_14153592-7eee-42c3-9d4c-c0aba7cd09d7.xml#14153592-7eee-42c3-9d4c-c0aba7cd09d7"/>
+  </children>
+</archimate:ArchimateDiagramModel>

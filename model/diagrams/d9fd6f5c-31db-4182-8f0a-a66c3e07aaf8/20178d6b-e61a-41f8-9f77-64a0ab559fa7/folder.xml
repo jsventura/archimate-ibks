@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2. Logical Solution Architecture"
+    id="20178d6b-e61a-41f8-9f77-64a0ab559fa7"
+    documentation="Logical Solution Architecture describes these software components and the information flows&#xD;&#xA;and control flows among the components within the system. It results from allocating the&#xD;&#xA;functional components in the Conceptual SA to software components identified from&#xD;&#xA;requirements analysis and early design work. Software components may be open source,&#xD;&#xA;commercial off-the-shelf (COTS), or government off-the-shelf (GOTS) products, or custom code"/>

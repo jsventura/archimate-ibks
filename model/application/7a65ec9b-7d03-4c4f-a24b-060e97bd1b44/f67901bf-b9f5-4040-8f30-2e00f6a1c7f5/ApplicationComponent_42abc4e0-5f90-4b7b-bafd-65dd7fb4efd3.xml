@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="frt-mbbk-backofficemobilebanking"
+    id="42abc4e0-5f90-4b7b-bafd-65dd7fb4efd3"
+    documentation="Permite la configuración de pagos de servicio y parametrias del APP">
+  <properties
+      key="Stereotype"
+      value="Aplicación Web"/>
+</archimate:ApplicationComponent>

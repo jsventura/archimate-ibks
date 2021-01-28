@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite obtener el listado de canales"
+    id="id-80e306af274f428baf4d3c82bd34ac09"
+    documentation="Esta funcionalidad permite obtener un listado de los canales del banco para asociar categorías de pagos de servicios"/>

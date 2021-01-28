@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security"
+    id="id-429e567197d44192809ea5d1d543b5e9"
+    documentation="Autorización">
+  <properties
+      key="Stereotype"
+      value="SSO"/>
+</archimate:ApplicationInterface>

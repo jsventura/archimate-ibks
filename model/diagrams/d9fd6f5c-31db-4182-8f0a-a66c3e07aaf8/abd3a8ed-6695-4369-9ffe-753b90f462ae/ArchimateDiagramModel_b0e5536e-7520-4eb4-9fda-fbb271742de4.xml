@@ -1,0 +1,35 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Physical Solution Architecture"
+    id="b0e5536e-7520-4eb4-9fda-fbb271742de4"
+    documentation="Validates that what is delivered is sustainable&#xD;&#xA;&#xD;&#xA;Component Software Graphic : Shows the system products of the major components and is useful for understanding common system products across the architecture to identify duplication.&#xD;&#xA;&#xD;&#xA;Physical Infrastructure Graphic : Shows the physical construction and relationships among the major components within the solution.">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="f5ea6595-ba10-46c2-887a-f046c8f29184">
+    <bounds
+        x="324"
+        y="96"
+        width="260"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_248b0f99-ef32-4c5c-82f5-4fd96b6eeeca.xml#248b0f99-ef32-4c5c-82f5-4fd96b6eeeca"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="f27287f0-63f8-4f9a-927d-5e520c9c2683"
+      font="1|Segoe UI|10.0|1|WINDOWS|1|-20|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ffffff"
+      fillColor="#004080"
+      textPosition="1">
+    <bounds
+        x="5"
+        y="24"
+        width="579"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_14153592-7eee-42c3-9d4c-c0aba7cd09d7.xml#14153592-7eee-42c3-9d4c-c0aba7cd09d7"/>
+  </children>
+</archimate:ArchimateDiagramModel>

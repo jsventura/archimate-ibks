@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HTTPS"
+    id="id-cd8d3cca6a4649819482598cb5980753">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_0e82d212-2a57-48d9-b643-31dcdf0fe0b7.xml#0e82d212-2a57-48d9-b643-31dcdf0fe0b7"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-a8736a79ab8e42a48d34ae4504322e2a.xml#id-a8736a79ab8e42a48d34ae4504322e2a"/>
+</archimate:AssociationRelationship>

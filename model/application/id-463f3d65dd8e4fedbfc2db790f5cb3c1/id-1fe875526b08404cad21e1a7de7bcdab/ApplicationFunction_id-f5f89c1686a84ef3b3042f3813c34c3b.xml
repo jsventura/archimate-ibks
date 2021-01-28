@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite obtener datos de un servicio - producto y un listado de todos las comisiones asociadas"
+    id="id-f5f89c1686a84ef3b3042f3813c34c3b"
+    documentation="Esta funcionalidad permite obtener un servicio asociado al producto por medio de su respectivo identificador, adicionalmente obtiene una lista de comisiones que le pertenece"/>

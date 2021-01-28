@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite actualizar una categoría"
+    id="id-b030620775d0475489c1422fcadb4a94"
+    documentation="Esta funcionalidad permite actualizar los datos de una categoría de pago de servicio asociada a un canal del banco"/>

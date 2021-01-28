@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="payment-manager"
+    id="1082eeca-85a1-469c-8694-e8fbcc25ff5e"
+    documentation="Gestiona la configuración de Pago de Servicio">
+  <properties
+      key="Stereotype"
+      value="API"/>
+</archimate:ApplicationInterface>

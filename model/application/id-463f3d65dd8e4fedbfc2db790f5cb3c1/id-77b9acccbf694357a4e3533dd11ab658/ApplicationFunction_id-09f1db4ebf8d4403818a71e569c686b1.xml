@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite actualizar un tipo de servicio"
+    id="id-09f1db4ebf8d4403818a71e569c686b1"
+    documentation="Esta funcionalidad permite actualizar un tipo de servicio por medio de su respectivo identificador registrado por el banco"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite crear una comisión"
+    id="id-bc04508ebb22471da2b23c48149fb9af"
+    documentation="Esta funcionalidad permite registrar una comisión que estará vinculada a una asociación entre un tipo de servicio y un producto"/>

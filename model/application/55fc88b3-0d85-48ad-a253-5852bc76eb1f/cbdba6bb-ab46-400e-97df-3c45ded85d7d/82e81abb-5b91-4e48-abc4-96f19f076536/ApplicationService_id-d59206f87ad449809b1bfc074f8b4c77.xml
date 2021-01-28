@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ibks-mobile-app-manager"
+    id="id-d59206f87ad449809b1bfc074f8b4c77"
+    documentation="Gestiona la configuración de parámetros del APP y desafiliación de dispositivos">
+  <properties
+      key="Stereotype"
+      value="Microservicio"/>
+</archimate:ApplicationService>

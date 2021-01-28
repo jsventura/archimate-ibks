@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TCP/IP"
+    id="id-07b01c3ae94645ef9086af23fa0ba37d">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-5e075227715647c8b0e4c37a2ee2df1d.xml#id-5e075227715647c8b0e4c37a2ee2df1d"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_12d20b61-e539-4f00-9f50-52034f18e64c.xml#12d20b61-e539-4f00-9f50-52034f18e64c"/>
+</archimate:AssociationRelationship>

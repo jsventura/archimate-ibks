@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta una imagen que aparece como ícono de un producto en el consolidado de productos del App Móvil"
+    id="id-7c3ff57bd7424867836f3a1d51df43c0"
+    documentation="Esta funcionalidad permite obtener una imagen, el cual es usada como ícono de un producto en el consolidado de productos del App Móvil."/>

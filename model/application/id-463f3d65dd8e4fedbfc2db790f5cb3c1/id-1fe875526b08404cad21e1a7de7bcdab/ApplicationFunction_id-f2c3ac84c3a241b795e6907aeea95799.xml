@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite obtener un listado de servicios - productos"
+    id="id-f2c3ac84c3a241b795e6907aeea95799"
+    documentation="Esta funcionalidad permite obtener un listado de las asociaciones entre servicios y productos que permiten realizar el pago"/>

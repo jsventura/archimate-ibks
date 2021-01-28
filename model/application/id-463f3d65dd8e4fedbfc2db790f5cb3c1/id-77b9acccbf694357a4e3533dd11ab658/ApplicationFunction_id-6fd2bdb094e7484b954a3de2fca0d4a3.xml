@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite obtener el listado de categorias"
+    id="id-6fd2bdb094e7484b954a3de2fca0d4a3"
+    documentation="Esta funcionalidad permite obtener el listado de las categorías definidas para los pagos de servicios registrados por los canales del banco"/>

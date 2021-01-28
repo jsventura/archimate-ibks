@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3. Physical Solution Architecture"
+    id="abd3a8ed-6695-4369-9ffe-753b90f462ae"
+    documentation="Physical Solution Architecture shows the mapping of all software components to hardware&#xD;&#xA;components and detailed information and control flows. It includes connections to internal and&#xD;&#xA;external networks; incorporation of security features and devices, component integration&#xD;&#xA;mechanisms, and component scaling mechanisms needed to meet non-functional requirements. "/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permite crear un proveedor"
+    id="id-6d49d14c83494750ab218dc99a4c6bf0"
+    documentation="Esta funcionalidad permite crear un nuevo proveedor que ha formado un contrato con el banco"/>

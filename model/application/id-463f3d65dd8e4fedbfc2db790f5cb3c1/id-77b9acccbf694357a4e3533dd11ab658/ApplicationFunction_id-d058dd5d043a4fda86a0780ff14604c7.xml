@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Obtiene una lista de preferencias de productos para el uso de App Móvil en el consolidado de productos"
+    id="id-d058dd5d043a4fda86a0780ff14604c7"
+    documentation="Esta funcionalidad permite obtener una lista de preferencias de productos para el uso de App Móvil en el consolidado de productos.&#xD;&#xA;Si se quiere filtrar un producto, es obligatorio enviar por query string el 'typeCode' y el 'subTypeCode'."/>
