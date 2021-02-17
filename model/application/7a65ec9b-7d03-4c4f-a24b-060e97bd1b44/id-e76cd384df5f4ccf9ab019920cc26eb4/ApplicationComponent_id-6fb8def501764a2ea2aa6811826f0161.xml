@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sso-login"
+    id="id-6fb8def501764a2ea2aa6811826f0161"
+    documentation="Permite realizar login">
+  <properties
+      key="Stereotype"
+      value="Aplicación Web"/>
+</archimate:ApplicationComponent>

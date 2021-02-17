@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="mobile-app-configuration"
+    name="ibks-mobile-app-configuration"
     id="id-e1e64389f2dc40d180c3725a20edf113"
     documentation="Gestiona la configuración de parámetria del APP">
   <properties
